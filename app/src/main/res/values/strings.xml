@@ -15,4 +15,7 @@
 -->
 <resources>
     <string name="app_name">Quake Report</string>
+
+    <string name="direction_replacement">Near the</string>
+    <string name="of">of</string>
 </resources>
