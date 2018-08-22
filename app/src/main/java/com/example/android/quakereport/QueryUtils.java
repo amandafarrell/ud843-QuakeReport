@@ -37,6 +37,7 @@ public final class QueryUtils {
      * Query the USGS dataset and return the JSON response as a string
      */
     public static ArrayList<Earthquake> fetchEarthquakeData(String requestUrl) {
+
         // Create URL object
         URL url = createUrl(requestUrl);
 
